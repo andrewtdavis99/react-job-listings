@@ -63,8 +63,8 @@ function App() {
           filters.length > 0 && (
           <div className='flex flex-wrap bg-white shadow-md my-16 mx-10 p-4 rounded
          sm:flex-row'>
-          {filters.map((filter) => (
-            <div className='m-2 my-4' >
+          {filters.map((filter, i) => (
+            <div key={i} className='m-2 my-4' >
               <span 
               className='text-blue-400 bg-blue-200 font-bold pl-2 py-2 rounded'>
               {filter}
@@ -83,7 +83,7 @@ function App() {
           filteredJobs.map(job => (
             <JobBoardComponent 
               job={job}  
-              key={job.id} 
+              key={job.id}
               handleTagClick={handleTagClick}
             />
           ))
