@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-job-listings/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-job-listings/static/js/main.3990dccc.chunk.js",
+    "main.js.map": "/react-job-listings/static/js/main.3990dccc.chunk.js.map",
+    "runtime-main.js": "/react-job-listings/static/js/runtime-main.e1a988a8.js",
+    "runtime-main.js.map": "/react-job-listings/static/js/runtime-main.e1a988a8.js.map",
+    "static/js/2.ec30bcbe.chunk.js": "/react-job-listings/static/js/2.ec30bcbe.chunk.js",
+    "static/js/2.ec30bcbe.chunk.js.map": "/react-job-listings/static/js/2.ec30bcbe.chunk.js.map",
+    "index.html": "/react-job-listings/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-job-listings/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ec30bcbe.chunk.js.LICENSE.txt": "/react-job-listings/static/js/2.ec30bcbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1a988a8.js",
+    "static/js/2.ec30bcbe.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3990dccc.chunk.js"
+  ]
+}
